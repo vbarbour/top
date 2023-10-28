@@ -13,7 +13,7 @@ function App() {
         <div className="row">
           <div className="col-8">
             <text style={{ fontWeight: "bold", color: "black" }}>
-              Eswar Divi
+              Teach
             </text>
           </div>
         </div>
