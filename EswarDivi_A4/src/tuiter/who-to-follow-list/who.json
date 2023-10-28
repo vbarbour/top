@@ -1,0 +1,20 @@
+[
+    {
+        "_id": 111,
+        "userName": "VirginG",
+        "handle": "VirginG",
+        "avatarIcon": "VG.png"
+    },
+    {
+        "_id": 222,
+        "userName": "Tesla",
+        "handle": "tesla",
+        "avatarIcon": "tesla.png"
+    },
+    {
+        "_id": 333,
+        "userName": "SpaceX",
+        "handle": "SpaceX",
+        "avatarIcon": "spacex.png"
+    }
+]
